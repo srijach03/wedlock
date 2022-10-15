@@ -1,0 +1,236 @@
+/*topnavbar css  start*/
+.pelli-logo img{
+    color: #fff;
+    width:12%;
+    
+}
+/* . position: -webkit-sticky;
+position: sticky;
+top: 0;
+padding: 5px;
+background-color: #cae8ca;
+border: 2px solid #4CAF50;
+} */
+
+.dropdown-menu .hide {
+    display: none;
+}
+.navbar-light .navbar-nav .active>.nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show>.nav-link {
+    color:  #183A1D;
+	font-size: 15px;
+}
+.topnav_section_main{
+	background-color: #f6c453;
+}
+.wdding-ttl{
+	font-size: 18px;
+	
+}
+
+input{
+	outline: none;
+	border: none;
+}
+.near-btn{
+	background-color: #183A1D;
+	outline: none;
+	border: none;
+	margin-top: 10px;
+	padding: 20px;
+	width: 100%;
+	font-weight: 700;
+	color: #fff;
+}
+.location-main{
+	background-color:cadetblue;
+	padding-top: 20px;
+	margin-top: 50px;
+	position: relative;
+	right: -400px;
+	padding-bottom: 20px;
+
+}
+.dropdown-menu {
+    position: absolute;
+    will-change: transform;
+    top: 0px;
+    left: 310px !important;
+    transform: translate3d(310px, 53px, 0px);
+}
+
+.enter-ttl{
+	font-size: 20px;
+}
+.nav-link {
+    display: block;
+    padding: 0 1rem;
+}
+.login{
+    text-align: end;
+}
+.login a{
+    font-size: 35px;
+}
+#drop-down{
+	font-size: 20px;
+}
+.login-img{
+    color: black;
+}
+.fa_search{
+    font-size: 30px;
+}
+.navabr-section_main{
+    background-color: #E1eedd;
+}
+.location-btn{
+   background-color: #183A1D;
+   border-radius: 3px;
+   border: 2px solid #000;
+   color: #000;
+}
+p{
+	font-size: 12px;
+} 
+span{
+	font-size: 12px;
+}
+
+/*banner css end*/
+
+/*service css start*/
+
+
+.wedding-decoration1{
+	border:2px solid grey;
+	
+	margin-left: 300px;
+	width: 500px;
+	
+	
+}
+.wedding-decoration2{
+	border:2px solid grey;
+	margin-left: 350px;
+	width: 500px;
+	
+	
+}
+
+.wedding-decoration3{
+	border:2px solid grey;
+	margin-left: 300px;
+	width: 500px;
+	
+	
+}
+.wedding-decoration4{
+	border:2px solid grey;
+	margin-left: 350px;
+	width: 500px;
+	
+	
+}
+.send-btn{
+	background-color: aquamarine;
+padding: 10px 70px;
+	border: 2px solid #000;
+	border-radius: 5px;
+	font-size: 20px;
+	margin-right: 15px;
+}
+.cnct{
+	color:#000
+}
+.social-iconss li a i{
+	justify-content: center;
+}
+.cnct1 i{
+	font-size: 40px;
+	color: #000;
+}
+.contact-details-page{
+	background-color: #E1EEDD;
+}
+
+.customer-id{
+	background-color: aquamarine;
+	border-radius: 20px;
+}
+.photographer{
+	border: 1px solid gray;
+	padding: 0px 20px;
+}
+.featured-ttl{
+    color: #183A1D;
+    text-align: center;
+	margin-left: 600px;
+	margin-top: 20px;
+}
+.featured-text{
+    border-bottom: 1px solid #000;
+}
+.search-iecon i{
+    color: #183A1D;
+	font-size: 30px;
+}
+.fv-text{
+    border: 1px solid grey;
+    
+}
+.location-btn{
+	background-color: cadetblue;
+	padding: 0px 15px;
+	border-radius: 2px solid #183A1D;
+}
+
+
+.wedding-decoration1{
+	border:2px solid grey;
+	
+	margin-left: 10px;
+	margin-right: 60px;
+	
+	
+	
+	
+}
+.wedding-decoration2{
+	border:2px solid grey;
+	margin-left: 250px;
+	width: 500px;
+	
+	
+}
+
+.wedding-decoration3{
+	border:2px solid grey;
+	margin-top: 3px;
+	margin-left: 10px;
+	margin-right: 60px;
+	
+	
+}
+.wedding-decoration4{
+	border:2px solid grey;
+	margin-left: 250px;
+	width: 500px;
+	margin-top: 3px;
+	
+	
+}
+
+.featured-ttl{
+    color: #183A1D;
+    text-align: center;
+	margin-left: 400px;
+	margin-top: 2px;
+	
+	padding-top: 2px;
+	padding-bottom: 50px;
+}
+.comboitems{
+	font-size: large;
+}
+
+

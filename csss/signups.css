@@ -1,0 +1,217 @@
+/*topnavbar css  start*/
+.pelli-logo img{
+    color: #fff;
+    width:12%;
+
+    
+}
+/* . position: -webkit-sticky;
+position: sticky;
+top: 0;
+padding: 5px;
+background-color: #cae8ca;
+border: 2px solid #4CAF50;
+} */
+
+.dropdown-menu .hide {
+    display: none;
+}
+.navbar-light .navbar-nav .active>.nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show>.nav-link {
+    color:  #183A1D;
+	font-size: 15px;
+}
+.topnav_section_main{
+	background-color: #f6c453;
+}
+.wdding-ttl{
+	font-size: 18px;
+	
+}
+
+input{
+	outline: none;
+	border: none;
+}
+.near-btn{
+	background-color: #183A1D;
+	outline: none;
+	border: none;
+	margin-top: 10px;
+	padding: 20px;
+	width: 100%;
+	font-weight: 700;
+	color: #fff;
+}
+.location-main{
+	background-color:#183A1D;
+	padding-top: 20px;
+	margin-top: 50px;
+	position: relative;
+	right: -400px;
+	padding-bottom: 20px;
+
+}
+.dropdown-menu {
+    position: absolute;
+    will-change: transform;
+    top: 0px;
+    left: 310px !important;
+    transform: translate3d(310px, 53px, 0px);
+}
+
+.enter-ttl{
+	font-size: 20px;
+}
+.nav-link {
+    display: block;
+    padding: 0 1rem;
+}
+.login{
+    text-align: end;
+}
+.login a{
+    font-size: 35px;
+}
+#drop-down{
+	font-size: 20px;
+}
+.login-img{
+    color: black;
+}
+.fa_search{
+    font-size: 30px;
+}
+.navabr-section_main{
+    background-color: #E1EEDD;
+}
+.location-btn{
+   background-color: #183A1D;
+   border-radius: 3px;
+   border: 2px solid #000;
+   color: #000;
+}
+p{
+	font-size: 12px;
+} 
+span{
+	font-size: 12px;
+}
+
+.wrapper{
+	
+	margin:50px 100px 0px 400px ;
+	position: relative;
+	max-width: 600px;
+	width: 100%;
+	background-color: #E1EEDD;
+	padding: 34px;
+	border-radius: 10px;
+  }
+  .wrapper h2{
+	position: relative;
+	font-size: 22px;
+	font-weight: 600;
+	color: #183A1D;
+  }
+  .wrapper h2::before{
+	position: absolute;
+	left: 0;
+	bottom: 0;
+	height: 3px;
+	width: 28px;
+	border-radius: 12px;
+	background: #183A1D;
+  }
+  .wrapper form{
+	margin-top: 30px;
+  }
+  .wrapper form .input-box{
+	height: 52px;
+	margin: 18px 0;
+	background-color: #FEFBE9;
+	border-radius: 10px;
+  }
+  form .input-box input{
+	height: 100%;
+	width: 100%;
+	outline: none;
+	padding: 0 15px;
+	font-size: 17px;
+	font-weight: 400;
+	color: black;
+	border: 1.5px solid #C7BEBE;
+	background-color: #FEFBE9;
+	border-bottom-width: 2.5px;
+	border-radius: 6px;
+	transition: all 0.3s ease;
+  }
+  .input-box input:focus,
+  .input-box input:valid{
+	border-color: #183A1D;
+  }
+  form .policy{
+	display: flex;
+	align-items: center;
+  }
+  form h3{
+	color: #707070;
+	font-size: 14px;
+	font-weight: 500;
+	margin-left: 10px;
+  }
+  .input-box.button input{
+	color :#E1EEDD;
+	letter-spacing: 1px;
+	border: none;
+	background: #183A1D;
+	border: #183A1D;
+	cursor: pointer;
+  }
+  .input-box.button input:hover{
+	background: #FEFBE9;
+	color: #183A1D;
+  }
+  form .text h3{
+   color: #333;
+   width: 100%;
+   text-align: center;
+  }
+  form .text h3 a{
+	color: #4070f4;
+	text-decoration: none;
+  }
+  form .text h3 a:hover{
+	text-decoration: underline;
+  }
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  input [type=text], select{
+	  
+	  border: 1px solid ;
+	  border-radius: 4px;
+	  box-sizing: border-box;
+	  height: 52px;
+	  color: #333;
+	  
+	  background-color: #FEFBE9; 
+	  border-radius: 10px;
+	  height: 100%;
+	  width: 100%;
+	  outline: none;
+	  padding: 0 15px;
+	  font-size: 17px;
+	  font-weight: 400;
+	  border: 1.5px solid #C7BEBE;
+	  background-color: #FEFBE9;
+	  border-bottom-width: 2.5px;
+	  border-radius: 6px;
+	  transition: all 0.3s ease;
+  }

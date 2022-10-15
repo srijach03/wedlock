@@ -1,0 +1,231 @@
+/*topnavbar css  start*/
+.pelli-logo img{
+    color: #fff;
+    width:12%;
+    
+}
+/* . position: -webkit-sticky;
+position: sticky;
+top: 0;
+padding: 5px;
+background-color: #cae8ca;
+border: 2px solid #4CAF50;
+} */
+
+.dropdown-menu .hide {
+    display: none;
+}
+.navbar-light .navbar-nav .active>.nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show>.nav-link {
+    color:  #183A1D;
+	font-size: 15px;
+}
+.topnav_section_main{
+	background-color: #f6c453;
+}
+.wdding-ttl{
+	font-size: 18px;
+	
+}
+
+input{
+	outline: none;
+	border: none;
+}
+.near-btn{
+	background-color: #183A1D;
+	outline: none;
+	border: none;
+	margin-top: 10px;
+	padding: 20px;
+	width: 100%;
+	font-weight: 700;
+	color: #fff;
+}
+.location-main{
+	background-color:cadetblue;
+	padding-top: 20px;
+	margin-top: 50px;
+	position: relative;
+	right: -400px;
+	padding-bottom: 20px;
+
+}
+.dropdown-menu {
+    position: absolute;
+    will-change: transform;
+    top: 0px;
+    left: 310px !important;
+    transform: translate3d(310px, 53px, 0px);
+}
+
+.enter-ttl{
+	font-size: 20px;
+}
+.nav-link {
+    display: block;
+    padding: 0 1rem;
+}
+.login{
+    text-align: end;
+}
+.login a{
+    font-size: 35px;
+}
+#drop-down{
+	font-size: 20px;
+}
+.login-img{
+    color: black;
+}
+.fa_search{
+    font-size: 30px;
+}
+.navabr-section_main{
+    background-color: #E1eedd;
+}
+.location-btn{
+   background-color: #183A1D;
+   border-radius: 3px;
+   border: 2px solid #000;
+   color: #000;
+}
+p{
+	font-size: 12px;
+} 
+span{
+	font-size: 12px;
+}
+/*banner css start*/
+.carousel-inner {
+	width: 100%;
+	display: inline-block;
+	position: relative;
+}
+.carousel-inner {
+	padding-top: 25.25%;
+	display: block;
+	content: "";
+}
+.carousel-item {
+	position: absolute;
+	top: 0;
+	bottom: 0;
+	right: 0;
+	left: 0;
+	background: #FEFBE9;
+	background: no-repeat center center scroll;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	margin-top: 15px;
+}
+.price-range{
+	border: 2px solid #f6c453;
+	padding: 11px 20px;
+}
+.caption {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+	width: 60%;
+	z-index: 9;
+	margin-top: 20px;
+	text-align: center;
+}
+.caption h4 {
+  color: #fff;
+	font-size: 52px;
+	font-weight: 700;
+	margin-bottom: 23px;
+}
+
+.carousel-indicators .active {
+  background: #fff;
+}
+.carousel-indicators li {
+  background: rgba(255, 255, 255, 0.4);
+  border-top: 20px solid;
+  z-index: 15;
+}
+/*banner css end*/
+
+/*service css start*/
+
+.featured_venders_main{
+    padding: 30px 0px;
+}
+.wedding-decoration{
+	border:2px solid grey;
+	
+}
+.send-btn{
+	background-color: aquamarine;
+padding: 10px 70px;
+	border: 2px solid #000;
+	border-radius: 5px;
+	font-size: 20px;
+	margin-right: 15px;
+}
+.cnct{
+	color:#000
+}
+.social-iconss li a i{
+	justify-content: center;
+}
+.cnct1 i{
+	font-size: 40px;
+	color: #000;
+}
+.contact-details-page{
+	background-color: #E1EEDD;
+}
+.love{
+	font-size: 50px;
+}
+.customer-id{
+	background-color: aquamarine;
+	border-radius: 20px;
+}
+.photographer{
+	border: 1px solid gray;
+	padding: 0px 20px;
+}
+.featured-ttl{
+    color: #183A1D;
+    text-align: center;
+}
+.featured-text{
+    border-bottom: 1px solid #000;
+}
+.search-iecon i{
+    color: #183A1D;
+	font-size: 30px;
+}
+.fv-text{
+    border: 1px solid grey;
+    
+}
+.location-btn{
+	background-color: cadetblue;
+	padding: 0px 15px;
+	border-radius: 2px solid #183A1D;
+}
+.filters_box{
+	border: 1px solid grey;
+}
+.filetrs-ttl{
+	color: black;
+	
+}
+.filters_box{
+	padding: 20px;
+}
+.reviews{
+	color: #000;
+}
+.reviews:hover{
+	color: #000 ;
+}
+/*service css end*/
